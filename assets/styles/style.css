@@ -62,9 +62,11 @@ footer{
 
 .sidebar-description p {
     margin: 0;
+    font-size: 12px;
     
 }
 
 .main-main{
     margin: 0 15%;
 }
+
