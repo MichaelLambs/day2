@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+h1{
+ font-size: 3em;
+}
+
+h2{
+ font-size: 2em;
+}
+
+h3{
+    font-size: 1.5em;
+}
+
+header{
+    background: #5b5dec;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5b5dec;
+    color: antiquewhite;
+}
+
+footer{
+    background: #5b5dec;
+    height: 10vh;
+}
+
+.head {
+    margin-top: 30px;
+    border-top: 30px solid #8c8dc0;
+    text-align: center;
+}
+
+.head h2 {
+    margin-top: 10px;
+}
+
+.content {
+    display: inline-block;
+    width: 65%;
+}
+
+
+.main{
+   position: relative;
+}
+
+.sidebar {
+    width: 23%;
+    display: inline-block;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 95px;
+}
+
+.sidebar-description h2 {
+    margin-bottom: 0;
+    
+}
+
+.sidebar-description p {
+    margin: 0;
+    
+}
+
+.main-main{
+    margin: 0 15%;
+}
